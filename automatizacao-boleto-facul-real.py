@@ -7,7 +7,7 @@ from selenium.webdriver.common.keys import Keys
 pyautogui.alert("O código vai começar. Não use nada do seu computador enquanto o código estiver rodando!")
 pyautogui.PAUSE = 0.5
 
-# Abrir o Google Chrome (Ian dev)
+# Abrir o Google Chrome
 pyautogui.click(76,743)
 
 # Abrir o aluno online
@@ -50,9 +50,9 @@ pyautogui.press("enter")
 time.sleep(4)
 pyautogui.click(98,217)
 time.sleep(2)
-pyautogui.write("ianmarialima@gmail.com")
+pyautogui.write("usuario1@gmail.com")
 pyautogui.press("tab")
-pyautogui.write("cla.jun92@gmail.com")
+pyautogui.write("usuario2@gmail.com")
 pyautogui.press("tab") # seleciona o email
 pyautogui.press("tab") # pula pro campo do assunto
 time.sleep(0.5)
@@ -62,7 +62,7 @@ pyautogui.press("tab") # pular pro corpo do email
 
 
 texto = """
-Ian e Cláudia,
+Usuario1 e Usuario2,
     Segue o boleto referente ao mês atual.
     
      *****LEMBRETE:*****
