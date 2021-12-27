@@ -1,6 +1,6 @@
 <h1> 🤖 Automatização Web com Python 🤖 </h1>
 
-Status: Developed ✅
+> Status: Developed ✅
 
 ### 🇧🇷 Portuguese: Automatização Web feita em python planejado por mim para automatizar o processo de entrar no portal do aluno online da faculdade, fazer o download do boleto bancário e, posteriormente, enviar para o email.
 ### 🇺🇸 English: Web automation done in python planned by me to automate the process of logging into the college's online student portal, downloading the bank slip and later sending it to email.
